@@ -107,6 +107,9 @@ h5 {
     list-style-type: square;
     padding: 0px 20px;
 }
+.display {
+    padding: 0px 20px;
+}
 p {
     margin: 0px;
     font-weight: 300;
