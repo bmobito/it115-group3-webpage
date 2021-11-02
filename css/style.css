@@ -103,12 +103,15 @@ h5 {
      padding: 0px;
      list-style: none;
 }
-.odyssey {
+.item {
     list-style-type: square;
     padding: 0px 20px;
 }
-.display {
+.list {
     padding: 0px 20px;
+}
+.number {
+    list-style-type: decimal;
 }
 p {
     margin: 0px;
